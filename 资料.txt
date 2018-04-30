@@ -1,0 +1,49 @@
+签名信息：
+别名: lezu
+创建日期: 2018-1-23
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=lezu
+发布者: CN=lezu
+序列号: a648782
+有效期开始日期: Tue Jan 23 21:37:57 CST 2018, 截止日期: Mon May 26 21:37:57 CST 3017
+证书指纹:
+         MD5: DD:1A:9D:65:37:EC:03:03:6A:C8:23:AB:3B:E3:50:0A
+         SHA1: 71:20:03:75:CD:39:B1:63:50:50:79:9F:AF:54:44:9E:18:25:41:84
+         SHA256: 62:A9:72:B5:6E:C0:5B:3A:D0:63:73:7E:7B:99:48:2E:43:D9:30:28:48:36:A1:4A:61:18:AC:DD:92:9D:5C:49
+         签名算法名称: SHA256withRSA
+         版本: 3
+
+扩展:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: EB 59 76 4C EB 23 19 77   D0 94 FE DF 39 C3 39 35  .YvL.#.w....9.95
+0010: 20 E9 55 14                                         .U.
+]
+]
+
+
+debug签名信息
+别名: androiddebugkey
+创建日期: 2017-9-5
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: C=US, O=Android, CN=Android Debug
+发布者: C=US, O=Android, CN=Android Debug
+序列号: 1
+有效期开始日期: Tue Sep 05 22:34:12 CST 2017, 截止日期: Thu Aug 29 22:34:12 CST 2047
+证书指纹:
+         MD5: 99:44:22:8E:B7:9C:B5:CE:BA:35:A5:98:41:B6:85:2D
+         SHA1: 72:F3:A4:19:A0:4D:89:12:70:2B:0D:BB:0E:DA:E3:CC:56:41:F8:20
+         SHA256: F7:8C:74:12:7F:11:5B:97:49:26:55:C2:FF:61:39:F4:3E:C8:AC:4A:3A:4D:22:99:FB:B4:0A:BC:02:F6:DA:A3
+         签名算法名称: SHA1withRSA
+         版本: 1
+
+百度安全码
+71:20:03:75:CD:39:B1:63:50:50:79:9F:AF:54:44:9E:18:25:41:84;com.cyf.union
+debug：
+72:F3:A4:19:A0:4D:89:12:70:2B:0D:BB:0E:DA:E3:CC:56:41:F8:20;com.cyf.union
