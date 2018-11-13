@@ -52,3 +52,9 @@ debug签名信息
 71:20:03:75:CD:39:B1:63:50:50:79:9F:AF:54:44:9E:18:25:41:84;com.cyf.union
 debug：
 72:F3:A4:19:A0:4D:89:12:70:2B:0D:BB:0E:DA:E3:CC:56:41:F8:20;com.cyf.union
+
+
+联盟商账号  15307114945   13618666636
+库管：kuguan
+巡检：xunjian
+工人：gongren
