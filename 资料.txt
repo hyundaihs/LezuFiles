@@ -58,3 +58,6 @@ debug：
 库管：kuguan
 巡检：xunjian
 工人：gongren
+
+百度账号
+13476246677  13034477668.hd
